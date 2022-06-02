@@ -1,4 +1,4 @@
-![](imagenes/logo.png)
+![](logo.png)
 
 
 **“PROYECTO DE ANALISIS DE SISTEMAS”**
