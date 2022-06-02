@@ -109,19 +109,19 @@ El Hospital Loayza es el hospital general más grande del país, heredero de una
 
 **MANUALES:**
 
-![](imagenes/manual.jpg)
+![](manual.jpg)
 
 **PROCESOS:**
 
-![](imagenes/Procesos1.jpg)
+![](Procesos1.jpg)
 
-![](imagenes/Procesos2.jpg)
+![](Procesos2.jpg)
 
-![](imagenes/Procesos3.jpg)
+![](Procesos3.jpg)
 
 **ORGANIGRAMAS:**
 
-![](imagenes/Organigrama.jpg)
+![](Organigrama.jpg)
 
 **Descripción del Negocio**
 
@@ -132,14 +132,14 @@ El Hospital Loayza es el hospital general más grande del país, heredero de una
 
 **Diagrama Eriksson-Penker**
 
-![](imagenes/DiagramaErikPenker.jpg)
+![](DiagramaErikPenker.jpg)
 
 - **Diagrama de Actividades**
-![](imagenes/DiagramaAct.jpg)
+![](DiagramaAct.jpg)
 
 **Diagrama de Clases**
 
-![](imagenes/DiagramaClases.jpg)
+![](DiagramaClases.jpg)
 
 #
 **2.3 GLOSARIO DE TÉRMINOS**
@@ -171,13 +171,13 @@ Hernández, A. (2003). Los sistemas de información. Proyecto social: Revista de
 **3.1. FUENTES DE OBTENCIÓN DE REQUERIMIENTOS**
 - *3.1.1 Informe de entrevista o material técnico*
   
-  ![](imagenes/Encuesta1.jpg)
+  ![](Encuesta1.jpg)
    
 
-   ![](imagenes/Encuesta2.jpg)
+   ![](Encuesta2.jpg)
 
 
-    ![](imagenes/Encuesta3.jpg)
+    ![](Encuesta3.jpg)
 
 
     Según la entrevista realizada a los usuarios y personal  que realizan este proceso de manera presencial. se a encontrado que la mayoria de pacientes concide que actualmente los procesor de atencion de referncias es de masiado molestoso ya que la mayoria de los pacientes son atendidos hasta depues de 30 dias a mas.
@@ -195,7 +195,7 @@ Hernández, A. (2003). Los sistemas de información. Proyecto social: Revista de
 **3.1. FUENTES DE OBTENCIÓN DE REQUERIMIENTOS**
   - 3.2.1 Lista de Actores del Sistema
 
-    |Lista de actores del sistema| ![](imagenes/Actor.png)   |
+    |Lista de actores del sistema| ![](Actor.png)   |
     |----------------------|:--------:|
     |Nombre|Descripcion|
     |Medico auditor| Se encargará de hacer la referencia a la especialidad que el paciente requiera. |
@@ -204,7 +204,7 @@ Hernández, A. (2003). Los sistemas de información. Proyecto social: Revista de
 
   - 3.2.2. Lista de Casos de Uso del Sistema
 
-    |Lista de Casos de Uso del sistema| ![](imagene/Actor.png)   |
+    |Lista de Casos de Uso del sistema| ![](Actor.png)   |
     |----------------------|:--------:|
     |**Nombre**|**Descripcion**|
     |ACTOR|Medico Auditor|
@@ -214,7 +214,7 @@ Hernández, A. (2003). Los sistemas de información. Proyecto social: Revista de
     |REFERENCIAS|Casos de uso, Diagrama Eriksson-Penker|
     |AUTOR|Paciente|
 
-    |Lista de Casos de Uso del sistema| ![](imagene/Actor.png)   |
+    |Lista de Casos de Uso del sistema| ![](Actor.png)   |
     |----------------------|:--------:|
     |**Nombre**|**Descripcion**|
     |ACTOR|Admisionista|
@@ -231,16 +231,16 @@ Hernández, A. (2003). Los sistemas de información. Proyecto social: Revista de
     |---|:---:|:---:|:---:|:---:|:---:|:--:|
     | | |0.4|0.3|0.2|0.1| |
     |**Actor** |**Caso de Uso**|**Complejidad**|**Precedencia**|**Premura**|**Riesgo**|**Total**|
-    | Medico Auditor|CU01| ||![](imagenes/Marcar.png)| |0.2 |
-    | Medico Auditor|CU02| ||![](imagenes/Marcar.png)| |0.2 |
-    | Administia|CU03|![](imagenes/Marcar.png) | | | |0.4 |
-    | Administia|CU04| | | |![](imagenes/Marcar.png) |0.1 |
-    | Administia|CU05| | |![](imagenes/Marcar.png) | |0.2 |
-    | Administia|CU06| | |![](imagenes/Marcar.png) | |0.2 |
+    | Medico Auditor|CU01| ||![](Marcar.png)| |0.2 |
+    | Medico Auditor|CU02| ||![](Marcar.png)| |0.2 |
+    | Administia|CU03|![](Marcar.png) | | | |0.4 |
+    | Administia|CU04| | | |![](Marcar.png) |0.1 |
+    | Administia|CU05| | |![](Marcar.png) | |0.2 |
+    | Administia|CU06| | |![](Marcar.png) | |0.2 |
 
   - 3.2.4. Diagramas de Caso de Uso del Sistema
 
-    ![](imagenes/CSU_Sistema.png)
+    ![](CSU_Sistema.png)
   
   - 3.2.5. Especificaciones de Requerimientos de Software
 
@@ -270,9 +270,9 @@ Hernández, A. (2003). Los sistemas de información. Proyecto social: Revista de
 
 **3.3. PROTOTIPO DE PRINCIPALES INTERFACES**
 
-   ![](imagenes/Pantallazo_sist1.jpg)
+   ![](Pantallazo_sist1.jpg)
 
-   ![](imagenes/Pantallazo_sist2.jpg)
+   ![](Pantallazo_sist2.jpg)
 
 
 
