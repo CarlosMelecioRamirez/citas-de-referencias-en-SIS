@@ -24,11 +24,11 @@ Sancho Diaz,Erika Yanela(0000-0002-4467-1346)   (100 %)
 
 Brandon Baltazar La Torre(0000-0002-8806-8696)  (90 %)
 
-Condori Condori, William Antony (0000-0001-5538-0627) (100 %)
+Condori Condori, William Antony (0000-0001-5538-0627) (90 %)
 
 Soto Trejo Cristel Jazmin (0000-0001-7485-1113)  (100 %)
 
-Leonardo Douglas(ORCID)     (100 %)
+Leonardo Douglas(ORCID)     (90 %)
 
 LIMA- 2022
 
