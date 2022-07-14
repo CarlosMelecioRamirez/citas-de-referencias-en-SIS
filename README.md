@@ -18,17 +18,18 @@
 
 **INTEGRANTES**
 
-Carlos Melecio Ramirez Calderon(orcid.org/0000-0002-5893-7408) (100 %)
-
-Sancho Diaz,Erika Yanela(0000-0002-4467-1346)   (100 %)
-
-Brandon Baltazar La Torre(0000-0002-8806-8696)  (90 %)
+Brandon Baltazar La Torre(0000-0002-8806-8696) (90 %)
 
 Condori Condori, William Antony (0000-0001-5538-0627) (90 %)
 
-Soto Trejo Cristel Jazmin (0000-0001-7485-1113)  (100 %)
+Horna Zevallos Leonardo Douglas(0000-0001-8929-4858) (90 %)
 
-Horna Zevallos Leonardo Douglas(0000-0001-8929-4858)     (90 %)
+Ramirez Calderon Carlos Melecio (orcid.org/0000-0002-5893-7408) (100 %)
+
+Soto Trejo Cristel Jazmin (0000-0001-7485-1113) (100 %)
+
+Sancho Diaz, Erika Yanela  (0000-0002-4467-1346) (100 %)
+
 
 LIMA- 2022
 
