@@ -16,19 +16,19 @@
 
 **INTEGRANTES**
 
-Carlos Melecio Ramirez Calderon(ORCID)
+Carlos Melecio Ramirez Calderon(orcid.org/0000-0002-5893-7408) (100 %)
 
-Jeferson Nikelson(ORCID)
+Jeferson Nikelson(ORCID)  (90 %)
 
-Sancho Diaz,Erika Yanela(0000-0002-4467-1346)
+Sancho Diaz,Erika Yanela(0000-0002-4467-1346)   (100 %)
 
-Brandon Baltazar La Torre(0000-0002-8806-8696)
+Brandon Baltazar La Torre(0000-0002-8806-8696)  (90 %)
 
-Condori Condori, William Antony (0000-0001-5538-0627)
+Condori Condori, William Antony (0000-0001-5538-0627) (100 %)
 
-Soto Trejo Cristel Jazmin (0000-0001-7485-1113)
+Soto Trejo Cristel Jazmin (0000-0001-7485-1113)  (100 %)
 
-Leonardo Douglas(ORCID)
+Leonardo Douglas(ORCID)     (100 %)
 
 LIMA- 2022
 
@@ -134,8 +134,8 @@ El Hospital Loayza es el hospital general más grande del país, heredero de una
 
 ![](DiagramaErikPenker.jpg)
 
-- **Diagrama de Actividades**
-![](DiagramaAct.jpg)
+**Diagrama de Actividades**
+![](DiagramaAct.png)
 
 **Diagrama de Clases**
 
@@ -204,7 +204,7 @@ Hernández, A. (2003). Los sistemas de información. Proyecto social: Revista de
 
   - 3.2.2. Lista de Casos de Uso del Sistema
 
-    |Lista de Casos de Uso del sistema| ![](Actor.png)   |
+    |Lista de Casos de Uso del sistema|    |
     |----------------------|:--------:|
     |**Nombre**|**Descripcion**|
     |ACTOR|Medico Auditor|
@@ -214,7 +214,7 @@ Hernández, A. (2003). Los sistemas de información. Proyecto social: Revista de
     |REFERENCIAS|Casos de uso, Diagrama Eriksson-Penker|
     |AUTOR|Paciente|
 
-    |Lista de Casos de Uso del sistema| ![](Actor.png)   |
+    |Lista de Casos de Uso del sistema|   |
     |----------------------|:--------:|
     |**Nombre**|**Descripcion**|
     |ACTOR|Admisionista|
@@ -231,12 +231,12 @@ Hernández, A. (2003). Los sistemas de información. Proyecto social: Revista de
     |---|:---:|:---:|:---:|:---:|:---:|:--:|
     | | |0.4|0.3|0.2|0.1| |
     |**Actor** |**Caso de Uso**|**Complejidad**|**Precedencia**|**Premura**|**Riesgo**|**Total**|
-    | Medico Auditor|CU01| ||![](Marcar.png)| |0.2 |
-    | Medico Auditor|CU02| ||![](Marcar.png)| |0.2 |
-    | Administia|CU03|![](Marcar.png) | | | |0.4 |
-    | Administia|CU04| | | |![](Marcar.png) |0.1 |
-    | Administia|CU05| | |![](Marcar.png) | |0.2 |
-    | Administia|CU06| | |![](Marcar.png) | |0.2 |
+    | Medico Auditor|CU01| ||0.2| |0.2 |
+    | Medico Auditor|CU02| ||0.2| |0.2 |
+    | Administia|CU03|0.4 | | | |0.4 |
+    | Administia|CU04| | | |0.1 |0.1 |
+    | Administia|CU05| | |0.2 | |0.2 |
+    | Administia|CU06| | |0.2 | |0.2 |
 
   - 3.2.4. Diagramas de Caso de Uso del Sistema
 
